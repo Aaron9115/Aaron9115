@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aaron
+# Anish Fauzadr
 
 ### Computing Graduate | Software & AI Enthusiast
 
@@ -9,7 +9,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-fauzadr-06a1562a/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tharuaaron01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fauzdaranish@gmail.com)
 
 <br><br>
 

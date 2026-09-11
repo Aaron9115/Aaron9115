@@ -95,11 +95,13 @@ available: true
 
 ## Contribution Snake
 <div align="center">
+
   <img
-    src="https://raw.githubusercontent.com/Aaron9115/Aaron9115/main/assets/github-contribution-snake.gif"
-    alt="Smooth GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Aaron9115/Aaron9115/output/github-contribution-snake.svg"
+    alt="GitHub Contribution Snake"
     width="800"
   />
+
 </div>
 
 

@@ -1,97 +1,125 @@
 <div align="center">
 
-# 👋 Hi, I'm Aaron
+# Aaron
 
-### 💻 Computing Graduate | Aspiring Software & AI Developer
+### Computing Graduate | Software & AI Enthusiast
 
 📍 Kathmandu, Nepal
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anish-fauzadr-06a1562a3/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tharuaaron01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-fauzadr-06a1562a/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tharuaaron01@gmail.com)
 
 <br><br>
 
-### Python • SQL • React • FastAPI • Git • AI/ML
+**Python / SQL / React / FastAPI / AI & ML**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-Hi! I'm Aaron, a Computing graduate from Nepal with a strong interest in software development, data, and artificial intelligence.
+I'm a Computing graduate from Nepal with an interest in software development, data, and artificial intelligence.
 
-I enjoy learning how technology works by building practical projects and experimenting with different tools and technologies. I'm particularly interested in Python, web development, data analysis, and AI-powered applications.
+I enjoy building practical projects and learning through hands-on experience. I'm currently focused on improving my programming, software engineering, data analysis, and AI/ML skills.
 
-I'm currently focused on strengthening my programming and problem-solving skills while building projects that allow me to apply what I learn in real-world situations.
-
-I believe the best way to learn software development is to **build, break, understand, and build again.** 🚀
+I like understanding how things work, solving problems, and turning what I learn into useful projects.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Tech Stack
 
-### 💻 Programming
+<div align="center">
+
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🌐 Web Development
+### Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🤖 Data & AI
+### Data & AI
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+## Featured Projects
 
-- 🤖 Exploring **AI and RAG-based applications**
-- 🐍 Improving my **Python programming skills**
-- 🌐 Building projects with **React and FastAPI**
-- 📊 Learning more about **data analysis and machine learning**
-- 🧠 Strengthening my **problem-solving and software engineering fundamentals**
-- 🔨 Building projects to turn what I learn into practical experience
-
----
-
-## 📂 Featured Projects
-
-> More projects will be added here as I build and improve them.
-
-### 🤖 AI / RAG Project
-
-An AI-powered application exploring Retrieval-Augmented Generation (RAG), allowing users to work with information from their own documents.
-
-**Technologies:** Python • FastAPI • AI/ML
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **RAG AI Assistant** | AI application using Retrieval-Augmented Generation | Python • FastAPI • AI |
+| **Data Analysis Project** | Data processing and visualization project | Python • Pandas • SQL |
+| **Web Application** | Practical web application for learning full-stack development | React • JavaScript • FastAPI |
 
 ---
 
-### 🌐 Web Development Projects
+## Currently Learning
 
-Practical web applications created while learning modern frontend and backend development.
-
-**Technologies:** React • JavaScript • HTML • CSS • Python
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🐍 Advanced Python
+- 🌐 Full-Stack Development
+- 📊 Data Analysis
+- 🧠 Software Engineering
 
 ---
 
-## 📚 Currently Learning
+## Contribution Snake
 
-```text
-Python
-    ↓
-Data & AI
-    ↓
-Machine Learning
-    ↓
-RAG / LLM Applications
-    ↓
-Full-Stack Development
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaron9115/Aaron9115/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaron9115/Aaron9115/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aaron9115/Aaron9115/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Aaron9115&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-fauzadr-06a1562a/)
+
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharuaaron01@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>

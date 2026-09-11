@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Aaron" width="700"/>
+<img src="./assets/header.svg" alt="Anish Fauzadr" width="700"/>
 
 <br/>
 
@@ -87,7 +87,8 @@ available: true
 | Project | Description | Stack |
 |---|---|---|
 | **[VehicleIMS](https://github.com/Aaron9115)** | Full-stack vehicle inventory & booking system with role-specific dashboards | C# · ASP.NET Core · React · PostgreSQL · EF Core |
-| **[DataViz](https://github.com/Aaron9115)** | Dataset management & visualization platform with ML chart recommendations | Python · FastAPI · React · TypeScript · scikit-learn |
+| **[Fake Job Posting Detection](https://github.com/Aaron9115/Artificial-Intelligence-Fake-Job-Posting-Detection-)** | ML model that flags fraudulent job listings using NLP-based text classification | Python · Jupyter Notebook · scikit-learn · Pandas · NLP |
+| **[GoTrad](https://github.com/Aaron9115/GoTrad)** | Traditional rental platform connecting renters with local vendors | JavaScript · HTML · CSS · Node.js |
 | **[JournalApp](https://github.com/Aaron9115)** | Cross-platform journal & task tracker for Android, iOS, Windows & macOS | .NET MAUI · Blazor · SQLite · QuestPDF · C# |
 
 <br/>
@@ -95,7 +96,7 @@ available: true
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aaron9115/Aaron9115/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aaron9115/Aaron9115/output/github-contribution-grid-snake.gif" alt="Contribution Snake" width="100%"/>
 </div>
 
 <br/>

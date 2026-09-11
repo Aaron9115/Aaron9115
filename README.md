@@ -118,21 +118,12 @@ available: true
 
 <br/>
 
-## Quote
-
-<div align="center">
-
-```
-"Keep learning. Keep building. Keep getting better."
-```
-
-</div>
 
 <br/>
 
 <div align="center">
 
-**Always learning. Always building.**
+**"Keep learning. Keep building. Keep getting better."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 

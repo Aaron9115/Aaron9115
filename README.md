@@ -23,7 +23,7 @@
 
 <br/>
 
-## 📇 About Me
+##  About 
 
 ```yaml
 name: Aaron
@@ -58,7 +58,7 @@ available: true
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -82,7 +82,7 @@ available: true
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -101,7 +101,7 @@ available: true
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -112,25 +112,25 @@ available: true
 
 <br/>
 
-## 🤝 Connect
+##  Connect
 
 <div align="center">
 
-- 💼 **LinkedIn:** [anish-fauzadr](https://www.linkedin.com/in/anish-fauzadr-06a1562a3/)
-- 🐙 **GitHub:** [@Aaron9115](https://github.com/Aaron9115)
-- 📧 **Email:** [tharuaaron01@gmail.com](mailto:tharuaaron01@gmail.com)
-- 🌐 **Portfolio:** _coming soon_
+-  **LinkedIn:** [anish-fauzadr](https://www.linkedin.com/in/anish-fauzadr-06a1562a3/)
+-  **GitHub:** [@Aaron9115](https://github.com/Aaron9115)
+-  **Email:** [fauzdaranish@gmail.com](mailto:fauzdaranish@gmail.com)
+
 
 </div>
 
 <br/>
 
-## 💭 Quote
+## Quote
 
 <div align="center">
 
 ```
-"Clear architecture and maintainable code over unnecessary complexity."
+"Keep learning. Keep building. Keep getting better."
 ```
 
 </div>

@@ -1,1 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
 
+<defs>
+  <!-- Minimal warm-neutral bubble -->
+  <linearGradient id="bubble" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#F1EFEC"/>
+    <stop offset="38%" stop-color="#D6D1CA"/>
+    <stop offset="72%" stop-color="#B7B0A8"/>
+    <stop offset="100%" stop-color="#918981"/>
+    <animate attributeName="x1" values="0%;100%;0%" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="100%;0%;100%" dur="12s" repeatCount="indefinite"/>
+  </linearGradient>
+
+  <filter id="bubbleGlow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="4"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <filter id="particleGlow" x="-200%" y="-200%" width="400%" height="400%">
+    <feGaussianBlur stdDeviation="2"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<!-- Fully transparent background -->
+
+<!-- Quiet floating particles -->
+<g filter="url(#particleGlow)">
+  <circle cx="350" cy="111" r="1.4" fill="#D6D3D1">
+    <animate attributeName="cy" values="111;92;111" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".08;.65;.08" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="850" cy="112" r="1.4" fill="#A8A29E">
+    <animate attributeName="cy" values="112;131;112" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".08;.6;.08" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="402" cy="211" r="1.2" fill="#E7E5E4">
+    <animate attributeName="cy" values="211;227;211" dur="5.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".1;.55;.1" dur="5.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="798" cy="207" r="1.2" fill="#A8A29E">
+    <animate attributeName="cy" values="207;190;207" dur="5.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".1;.55;.1" dur="5.8s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- Smooth organic bubble -->
+<g filter="url(#bubbleGlow)">
+  <path fill="url(#bubble)" opacity=".94"
+    d="M468 101
+       C493 76 533 69 573 76
+       C614 83 645 105 652 137
+       C659 168 645 198 619 218
+       C593 239 556 242 522 231
+       C488 220 465 195 461 163
+       C458 138 462 117 468 101Z">
+
+    <animate attributeName="d"
+      dur="8s"
+      repeatCount="indefinite"
+      values="
+      M468 101 C493 76 533 69 573 76 C614 83 645 105 652 137 C659 168 645 198 619 218 C593 239 556 242 522 231 C488 220 465 195 461 163 C458 138 462 117 468 101Z;
+      M454 115 C475 83 514 69 555 73 C597 77 633 99 649 130 C664 161 654 194 628 216 C603 239 565 245 528 234 C493 224 468 199 461 169 C456 148 453 132 454 115Z;
+      M468 101 C493 76 533 69 573 76 C614 83 645 105 652 137 C659 168 645 198 619 218 C593 239 556 242 522 231 C488 220 465 195 461 163 C458 138 462 117 468 101Z"/>
+
+    <animateTransform attributeName="transform"
+      type="translate"
+      values="0 0; 17 -8; -14 7; 9 -3; 0 0"
+      dur="11s"
+      repeatCount="indefinite"/>
+
+    <animateTransform attributeName="transform"
+      additive="sum"
+      type="rotate"
+      values="-2.5 555 155; 2.5 555 155; -2.5 555 155"
+      dur="12s"
+      repeatCount="indefinite"/>
+  </path>
+</g>
+
+<!-- Stylish, large, lightweight editorial name -->
+<text x="600" y="160"
+      text-anchor="middle"
+      font-family="'Bodoni 72', 'Bodoni MT', Didot, 'Baskerville', Georgia, serif"
+      font-size="94"
+      font-weight="400"
+      font-style="normal"
+      letter-spacing="-3.5"
+      fill="#FFFFFF">
+  Anish Fauzadr
+</text>
+
+<!-- Tiny animated highlight for a polished look -->
+<path d="M430 177 Q600 191 770 177"
+      fill="none"
+      stroke="#FFFFFF"
+      stroke-width=".7"
+      opacity=".10">
+  <animate attributeName="opacity"
+           values=".03;.13;.03"
+           dur="5s"
+           repeatCount="indefinite"/>
+</path>
+
+<!-- Exact subtitle -->
+<text x="600" y="198"
+      text-anchor="middle"
+      font-family="'Helvetica Neue', 'Segoe UI', Arial, sans-serif"
+      font-size="17"
+      font-weight="400"
+      letter-spacing=".25"
+      fill="#E6EDF3">
+  Software Developer  ·  AI &amp; Data Enthusiast  ·  Kathmandu, Nepal
+</text>
+
+</svg>

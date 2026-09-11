@@ -41,7 +41,7 @@ jobs:
 
       - name: Generate smooth eating snake GIF
         run: |
-          python scripts/generate_snake_gif.py contribution-data.json assets/github-contribution-snake.gif
+          python scripts/generate_snake.py contribution-data.json assets/github-contribution-snake.gif
 
       - name: Commit generated GIF
         run: |

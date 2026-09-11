@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=" /assets/header.svg" alt="Anish Fauzadr" width="700"/>
+<img src="assets/header.svg" alt="Anish Fauzadr" width="700"/>
 
 <br/>
 

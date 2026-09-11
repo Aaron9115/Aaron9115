@@ -101,14 +101,7 @@ available: true
 
 <br/>
 
-##  GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aaron9115&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron9115&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" height="165"/>
-
-</div>
 
 <br/>
 

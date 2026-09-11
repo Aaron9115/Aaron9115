@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aaron&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+<img src="./assets/header.svg" alt="Aaron" width="700"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duplicate=false&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+clean%2C+practical+software;Exploring+AI%2C+ML+%26+RAG+Systems;Writing+maintainable+code+over+complexity;Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duplicate=false&pause=1000&color=C4B5FD&center=true&vCenter=true&width=560&lines=Building+clean%2C+practical+software;Exploring+AI%2C+ML+%26+RAG+Systems;Always+learning.+Always+building." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -60,17 +60,25 @@ available: true
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,cs,dotnet" />
+
+<br/>
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css,ts" />
 
+<br/>
+
 **Databases & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github" />
+
+</div>
 
 <br/>
 
@@ -105,16 +113,26 @@ available: true
 
 ## 🤝 Connect
 
+<div align="center">
+
 - 💼 **LinkedIn:** [anish-fauzadr](https://www.linkedin.com/in/anish-fauzadr-06a1562a3/)
 - 🐙 **GitHub:** [@Aaron9115](https://github.com/Aaron9115)
 - 📧 **Email:** [tharuaaron01@gmail.com](mailto:tharuaaron01@gmail.com)
 - 🌐 **Portfolio:** _coming soon_
 
+</div>
+
 <br/>
 
 ## 💭 Quote
 
-> "Clear architecture and maintainable code over unnecessary complexity."
+<div align="center">
+
+```
+"Clear architecture and maintainable code over unnecessary complexity."
+```
+
+</div>
 
 <br/>
 

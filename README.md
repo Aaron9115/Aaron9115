@@ -93,10 +93,12 @@ available: true
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aaron9115/Aaron9115/output/github-contribution-grid-snake.gif" alt="Contribution Snake" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/Aaron9115/Aaron9115/output/github-contribution-grid-snake.gif" alt="Contribution Snake" width="800"/>
+
 </div>
 
 <br/>

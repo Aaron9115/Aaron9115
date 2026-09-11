@@ -88,7 +88,7 @@ available: true
 |---|---|---|
 | **[VehicleIMS](https://github.com/Aaron9115)** | Full-stack vehicle inventory & booking system with role-specific dashboards | C# · ASP.NET Core · React · PostgreSQL · EF Core |
 | **[Fake Job Posting Detection](https://github.com/Aaron9115/Artificial-Intelligence-Fake-Job-Posting-Detection-)** | ML model that flags fraudulent job listings using NLP-based text classification | Python · Jupyter Notebook · scikit-learn · Pandas · NLP |
-| **[GoTrad](https://github.com/Aaron9115/GoTrad)** | Traditional rental platform connecting renters with local vendors | JavaScript · HTML · CSS · Node.js |
+| **[GoTrad](https://github.com/Aaron9115/GoTrad)** | Traditional rental platform connecting renters with local vendors | JavaScript · HTML · CSS · Node.js · Python · MongoDB |
 | **[JournalApp](https://github.com/Aaron9115)** | Cross-platform journal & task tracker for Android, iOS, Windows & macOS | .NET MAUI · Blazor · SQLite · QuestPDF · C# |
 
 <br/>
